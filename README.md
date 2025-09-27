@@ -24,11 +24,6 @@ Based in Nepal | Focused on JavaScript, React, Node.js & DevOps (in progress)
 
 ---
 
-## 📈 GitHub Stats
-![Mikal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mikalPaudel&show_icons=true&theme=transparent&hide_border=true)
-
----
-
 ## 🎯 2025 Goals
 - Build and publish small-but-complete projects  
 - Create a consistent GitHub activity streak  
