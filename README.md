@@ -7,25 +7,33 @@ Based in Nepal | Focused on JavaScript, React, Node.js & DevOps (in progress)
 
 ## 🚀 About Me
 - Currently building my foundation through mini projects and self-paced learning  
-- Transitioned from C/C++ background into modern web development  
+- Transitioned from C/C++ into modern web development  
 - Interested in frontend, backend, and DevOps over time  
-- Open to internships, junior roles, or trainee-level opportunities
+- Open to internships, junior roles, or trainee opportunities
 
 ---
 
-## 🛠️ Technologies & Tools I'm Exploring
-- **Frontend:** JavaScript, React, Next.js  
-- **Backend (Learning):** Node.js, Express  
-- **Version Control:** Git & GitHub  
-- **Other Interests:** DevOps basics, Linux, APIs
+## 🛠️ Tech Stack & Tools
+![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript)
+![React](https://img.shields.io/badge/React-000?style=for-the-badge&logo=react)
+![Next.js](https://img.shields.io/badge/Next.js-000?style=for-the-badge&logo=nextdotjs)
+![Node.js](https://img.shields.io/badge/Node.js-000?style=for-the-badge&logo=nodedotjs)
+![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github)
+![Linux](https://img.shields.io/badge/Linux-000?style=for-the-badge&logo=linux)
 
 ---
 
-## 📌 Goals for 2025
-- Build and publish small-but-complete projects
-- Create a consistent GitHub activity streak
-- Learn backend fundamentals and deploy apps
-- Explore DevOps tools step by step
+## 📈 GitHub Stats
+![Mikal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mikalPaudel&show_icons=true&theme=transparent&hide_border=true)
+
+---
+
+## 🎯 2025 Goals
+- Build and publish small-but-complete projects  
+- Create a consistent GitHub activity streak  
+- Learn backend fundamentals and deploy apps  
+- Explore DevOps step by step
 
 ---
 
