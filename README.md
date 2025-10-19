@@ -23,6 +23,29 @@ Based in Nepal | Focused on JavaScript, React, Node.js & DevOps (in progress)
 ![Linux](https://img.shields.io/badge/Linux-000?style=for-the-badge&logo=linux)
 
 ---
+## 🔥 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mikalPaudel&show_icons=true&theme=tokyonight" alt="Mikal's GitHub stats" />
+</p>
+
+---
+
+## 📊 Languages I Use
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mikalPaudel&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p>
+
+---
+
+## 🚀 Streak & Contributions
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=mikalPaudel&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
+
+---
 
 ## 🎯 2025 Goals
 - Build and publish small-but-complete projects  
