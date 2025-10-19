@@ -12,40 +12,35 @@ Based in Nepal | Focused on JavaScript, React, Node.js & DevOps (in progress)
 - Open to internships, junior roles, or trainee opportunities
 
 ---
-
 ## 🛠️ Tech Stack & Tools
-![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript)
-![React](https://img.shields.io/badge/React-000?style=for-the-badge&logo=react)
-![Next.js](https://img.shields.io/badge/Next.js-000?style=for-the-badge&logo=nextdotjs)
-![Node.js](https://img.shields.io/badge/Node.js-000?style=for-the-badge&logo=nodedotjs)
-![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github)
-![Linux](https://img.shields.io/badge/Linux-000?style=for-the-badge&logo=linux)
 
----
-## 🔥 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mikalPaudel&show_icons=true&theme=tokyonight" alt="Mikal's GitHub stats" />
-</p>
+  <!-- Core Web -->
+  ![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript)
+  ![React](https://img.shields.io/badge/React-000?style=for-the-badge&logo=react)
+  ![Next.js](https://img.shields.io/badge/Next.js-000?style=for-the-badge&logo=nextdotjs)
+  ![Node.js](https://img.shields.io/badge/Node.js-000?style=for-the-badge&logo=nodedotjs)
+  <!-- Styling -->
+  ![HTML](https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=html5)
+  ![CSS](https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3)
+  <!-- Tools -->
+  ![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git)
+  ![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github)
+  ![Linux](https://img.shields.io/badge/Linux-000?style=for-the-badge&logo=linux)
+  <!-- Explorations -->
+  ![Python](https://img.shields.io/badge/Python5-000?style=for-the-badge&logo=python)
+  ![Jupyter](https://img.shields.io/badge/Jupyter-000?style=for-the-badge&logo=jupyter)
+  ![Dart](https://img.shields.io/badge/Dart-000?style=for-the-badge&logo=dart)
 
 ---
 
 ## 📊 Languages I Use
 
-<p align="center">
+<p>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mikalPaudel&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
 ---
 
-## 🚀 Streak & Contributions
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=mikalPaudel&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
-
----
 
 ## 🎯 2025 Goals
 - Build and publish small-but-complete projects  
@@ -55,6 +50,13 @@ Based in Nepal | Focused on JavaScript, React, Node.js & DevOps (in progress)
 
 ---
 
+## 🚀 Streak & Contributions
+
+<p>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=mikalPaudel&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
+
+---
 ## 📫 Connect with Me
 - **LinkedIn:** [linkedin.com/in/mikal-paudel-77b8bb244](https://www.linkedin.com/in/mikal-paudel-77b8bb244)
 - **GitHub:** [github.com/mikalPaudel](https://github.com/mikalPaudel)
